@@ -19,6 +19,7 @@
 #import "FBSDKDeviceViewControllerBase+Internal.h"
 
 #import "FBSDKCoreKit+Internal.h"
+#import "FBSDKModalFormPresentationController.h"
 
 static const NSTimeInterval kAnimationDurationTimeInterval = .5;
 
